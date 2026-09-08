@@ -1084,12 +1084,12 @@
       "sha256": "3f899616e5b8b6462d6bf3fcbc3a56be6b44a3bdc1730cf35cfc60abb67207a2"
     },
     {
-      "bytes": 9035,
+      "bytes": 9487,
       "layer": "web_channel",
       "mode": "0644",
       "owner": "harness",
       "path": "WEB_CONTEXT_BUNDLE.md",
-      "sha256": "6392294580958c5e0e1084cf2c60c4714220038e4e2bfe20e74b2c1affdf19b6"
+      "sha256": "6a3cec12367a9bfe611dc1ae103bd243a95ef1299eb73c13e1d26d3e8d4930ee"
     },
     {
       "bytes": 3270,
@@ -1468,12 +1468,12 @@
       "sha256": "08cfe86133ca8225b3909978735af132b1fc81c88612a0d22b51c0cc16b8e00c"
     },
     {
-      "bytes": 1557,
+      "bytes": 1939,
       "layer": "problem_instance",
       "mode": "0644",
       "owner": "problem",
       "path": "problem-library/records/canonical-problems.jsonl",
-      "sha256": "e30abb1cf2f0f5b39877b895a7480943550c727f7fe4b842769dc20966179541"
+      "sha256": "43c241312ccdf467fb00cff553202c319dabca1550703135eb7c64dc1d4ba93c"
     },
     {
       "bytes": 3891,
@@ -1919,27 +1919,27 @@
   "harness_version": "1.2.4",
   "problem": {
     "admission": "preview_unadmitted",
-    "contract_sha256": "e64cd03254e03dd661eade23243c3c21793fc2d8bffa2d33c172cf8ed2e7f940",
+    "contract_sha256": "e66ed084a339fac5c824af7348a15d20c4a552ce52690a51abcef7bc413acecb",
     "lifecycle": "draft",
-    "problem_id": "problem:template-placeholder"
+    "problem_id": "problem:erdosproblems-220"
   },
   "profile": "web-research-full",
-  "repository": "vibemathing/vibe-mathing-problem-public-template",
+  "repository": "vibemathing/problem-erdosproblems-220",
   "repository_identity": {
     "binding_state": "verified",
-    "database_id": 1358726712,
+    "database_id": 1361065955,
     "default_branch": "main",
-    "full_name": "vibemathing/vibe-mathing-problem-public-template",
-    "node_id": "R_kgDOUPyGOA",
+    "full_name": "vibemathing/problem-erdosproblems-220",
+    "node_id": "R_kgDOUSA34w",
     "visibility": "public"
   },
   "schema_version": "1.1.0",
-  "snapshot_id": "harness-snapshot:template-placeholder",
+  "snapshot_id": "harness-snapshot:erdosproblems-220",
   "source": {
     "commit": "fedd664f1ac16c5232eb05076b73f2bab566ed67",
     "repository": "reviewed-public-export",
     "source_manifest_sha256": "fedd664f1ac16c5232eb05076b73f2bab566ed672840e7f2af851c77253813b3",
     "worktree_dirty": false
   },
-  "tree_sha256": "4cd282256d411fe493a82ef0050b5463e57339f15bd7a7c829a6f5d2fa1d0c7e"
+  "tree_sha256": "3dd3811f7f8291b12e75ed7f3a345f48f013512afdbc5a5fb160bee22341c3af"
 }
